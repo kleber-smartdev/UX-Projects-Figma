@@ -2,7 +2,7 @@
 Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wireframes, Prototypes, Mockups, and so on)</strong>
 ### Ps. Open the below links in a new tab 
 
-### Case Study - Capstone Project (@BrainStation Diploma)
+### Case Study - Capstone Project
 - [Figma file](https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-(Copy)?node-id=43%3A53&scaling=contain&page-id=27%3A2)
 <br>
 <a href="https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-(Copy)?node-id=43%3A53&scaling=contain&page-id=27%3A2" target="_blank" rel="noreferrer">
@@ -10,6 +10,17 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 </a>
 
 <hr>
+
+
+### Prototype - Capstone Project
+- [Figma file](https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3-(Copy)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+<br>
+<a href="https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3-(Copy)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2" target="_blank" rel="noreferrer">
+<img src="https://kleberux.com/projects/iPhone12Pro6.1Mockup.png" width="250px">
+</a>
+
+<hr>
+
 
 ### Task Flow
 - [Figma file](https://www.figma.com/proto/6T3G1XP3qnEfCLZrFfHD6D/Task-Flow-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1)
