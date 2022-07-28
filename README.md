@@ -29,9 +29,9 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 
 <hr>
 
-### Persona Experience Map (@BrainStation Diploma)
-- [Figma file](https://www.figma.com/proto/Pt2oXGn0OrvXv2TsdJqECI/Persona-Experience-Map-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1)
+### Staples Heuristic Implementation (@BrainStation Diploma)
+- [Figma file](https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-(Copy)?node-id=144%3A837&scaling=contain&page-id=144%3A84)
 <br>
-<a href="https://www.figma.com/proto/Pt2oXGn0OrvXv2TsdJqECI/Persona-Experience-Map-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1" target="_blank" rel="noreferrer">
-<img src="https://kleberux.com/projects/MacbookProFlyingMockup.png" width="450px">
+<a href="https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-(Copy)?node-id=144%3A837&scaling=contain&page-id=144%3A84" target="_blank" rel="noreferrer">
+<img src="https://kleberux.com/projects/FlyingMackbookPro15inchMockup.png" width="450px">
 </a>
