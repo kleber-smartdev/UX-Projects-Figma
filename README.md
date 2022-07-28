@@ -1,6 +1,6 @@
 # UX Projects Figma
 Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wireframes, Prototypes, Mockups, and so on)</strong>
-### Ps. stay with the page open, click with the right click button to the bellow links in a new tab. 
+### Ps. Remains with this page opened, click with the right button on the bellow links in a new tab. 
 <br>
 
 ### Case Study - Capstone Project
