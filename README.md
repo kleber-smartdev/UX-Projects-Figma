@@ -12,7 +12,6 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 
 <hr>
 
-
 ### Prototype - Capstone Project
 - [Access the Figma file here](https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3-(Copy)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 <br>
@@ -22,6 +21,14 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 
 <hr>
 
+### Responsive Website - Capstone Project
+- [Access the Figma file here](https://www.figma.com/file/cAhzslymwcNr3SXITWT2Hk/Responsive-Website)
+<br>
+<a href="https://www.figma.com/file/cAhzslymwcNr3SXITWT2Hk/Responsive-Website" target="_blank" rel="noreferrer">
+<img src="https://kleberux.com/projects/ResponsiveWebsite.png" width="450px">
+</a>
+
+<hr>
 
 ### Task Flow
 - [Access the Figma file here](https://www.figma.com/proto/6T3G1XP3qnEfCLZrFfHD6D/Task-Flow-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1)
