@@ -1,5 +1,5 @@
 # UX Projects Figma
-Some of my projects on Figma (Wireframes, Prototypes, Mockups and so on)
+Some of my projects on Figma (Persona, Task Flow, Experience Map, Wireframes, Prototypes, Mockups, and so on)
 
 ### Capstone Project (@BrainStation Diploma)
 <a href="https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-(Copy)?node-id=43%3A53&scaling=contain&page-id=27%3A2" target="_blank" rel="noreferrer">
