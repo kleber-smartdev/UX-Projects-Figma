@@ -1,4 +1,4 @@
-# Figma Projects
+# UX Projects Figma
 Some of my projects on Figma (Wireframes, Prototypes, Mockups and so on)
 
 ### Capstone Project (@BrainStation Diploma)
