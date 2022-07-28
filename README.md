@@ -1,7 +1,7 @@
 # UX Projects Figma
 Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wireframes, Prototypes, Mockups, and so on)</strong>
 ### Ps. Open the below links in a new tab 
-
+<div align="center">
 ### Case Study - Capstone Project
 - [Figma file](https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-(Copy)?node-id=43%3A53&scaling=contain&page-id=27%3A2)
 <br>
@@ -64,7 +64,7 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <a href="https://www.figma.com/proto/37Yy0FDy5aR4UpclzKBXC3/Patients-First--V2.0---Wireframe-(Copy)?node-id=11%3A1603&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A1603" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/iPhone12ProMockup.png" width="250px">
 </a>
-
+</div>
 
 
 
