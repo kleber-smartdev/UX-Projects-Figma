@@ -91,8 +91,6 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <img src="https://kleberux.com/projects/Portfolio-2022.jpg" width="450px">
 </a>
 
-
-### Contribute, Fork it, Share it!
 https://kleberux.com/
 <br>
 😉🚀
