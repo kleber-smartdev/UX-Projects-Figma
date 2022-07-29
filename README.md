@@ -88,7 +88,7 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 - [Access the Figma file here](https://www.figma.com/file/ac1AKffbJMuCwdps2N5fn1/Portfolio-2022?node-id=36%3A22)
 <br>
 <a href="https://www.figma.com/file/ac1AKffbJMuCwdps2N5fn1/Portfolio-2022?node-id=36%3A22" target="_blank" rel="noreferrer">
-<img src="https://kleberux.com/projects/iPhone12ProMockup.png" width="450px">
+<img src="https://kleberux.com/projects/Portfolio-2022.jpg" width="450px">
 </a>
 
 
