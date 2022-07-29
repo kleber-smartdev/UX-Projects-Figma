@@ -4,18 +4,18 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <br>
 
 ### Case Study - Capstone Project
-- [Access the Figma file here](https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-(Copy)?node-id=43%3A53&scaling=contain&page-id=27%3A2)
+- [Access the Figma file here](https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-?node-id=43%3A53&scaling=contain&page-id=27%3A2)
 <br>
-<a href="https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-(Copy)?node-id=43%3A53&scaling=contain&page-id=27%3A2" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/proto/TdGarrv0trP6aN1ZE0W8CU/Cap3-?node-id=43%3A53&scaling=contain&page-id=27%3A2" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/NewMacbookProMockupFrontView.png" width="450px">
 </a>
 
 <hr>
 
 ### Prototype - Capstone Project
-- [Access the Figma file here](https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3-(Copy)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+- [Access the Figma file here](https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 <br>
-<a href="https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3-(Copy)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/proto/ZMjSQGr357tZ7x76VJkPcV/Prototyping-Cap3?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/iPhone12Pro6.1Mockup.png" width="250px">
 </a>
 
@@ -31,16 +31,16 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <hr>
 
 ### Task Flow
-- [Access the Figma file here](https://www.figma.com/proto/6T3G1XP3qnEfCLZrFfHD6D/Task-Flow-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1)
+- [Access the Figma file here](https://www.figma.com/proto/6T3G1XP3qnEfCLZrFfHD6D/Task-Flow-?node-id=2%3A2&scaling=contain&page-id=0%3A1)
 <br>
-<a href="https://www.figma.com/proto/6T3G1XP3qnEfCLZrFfHD6D/Task-Flow-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/proto/6T3G1XP3qnEfCLZrFfHD6D/Task-Flow-?node-id=2%3A2&scaling=contain&page-id=0%3A1" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/iMacProFrontViewMockup.png" width="450px">
 </a>
 
 <hr>
 
 ### App Handoof
-- [Access the Figma file here](https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-(Copy)?node-id=0%3A1)
+- [Access the Figma file here](https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-?node-id=0%3A1)
 <br>
 <a href="https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-(Copy)?node-id=0%3A1" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/iPhoneXMockup.png" width="350px">
