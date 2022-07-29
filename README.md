@@ -43,7 +43,7 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 - [Access the Figma file here](https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-(Copy)?node-id=0%3A1)
 <br>
 <a href="https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-(Copy)?node-id=0%3A1" target="_blank" rel="noreferrer">
-<img src="https://kleberux.com/projects/iPhoneXMockup.png" width="450px">
+<img src="https://kleberux.com/projects/iPhoneXMockup.png" width="350px">
 </a>
 
 <hr>
@@ -61,7 +61,7 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 - [Access the Figma file here](https://www.figma.com/proto/20nMPGbf42jyF3mCL37WYm/Whoop-Hackathon!?node-id=76%3A2617&scaling=scale-down&page-id=76%3A2616&starting-point-node-id=76%3A2617)
 <br>
 <a href="https://www.figma.com/proto/20nMPGbf42jyF3mCL37WYm/Whoop-Hackathon!?node-id=76%3A2617&scaling=scale-down&page-id=76%3A2616&starting-point-node-id=76%3A2617" target="_blank" rel="noreferrer">
-<img src="https://kleberux.com/projects/iPhoneXRMockup.png" width="450px">
+<img src="https://kleberux.com/projects/iPhoneXRMockup.png" width="350px">
 </a>
 
 <hr>
