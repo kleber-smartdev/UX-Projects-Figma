@@ -42,16 +42,16 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 ### App Handoof
 - [Access the Figma file here](https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-?node-id=0%3A1)
 <br>
-<a href="https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-(Copy)?node-id=0%3A1" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-?node-id=0%3A1" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/iPhoneXMockup.png" width="350px">
 </a>
 
 <hr>
 
 ### Persona Experience Map
-- [Access the Figma file here](https://www.figma.com/proto/Pt2oXGn0OrvXv2TsdJqECI/Persona-Experience-Map-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1)
+- [Access the Figma file here](https://www.figma.com/proto/Pt2oXGn0OrvXv2TsdJqECI/Persona-Experience-Map-?node-id=2%3A2&scaling=contain&page-id=0%3A1)
 <br>
-<a href="https://www.figma.com/proto/Pt2oXGn0OrvXv2TsdJqECI/Persona-Experience-Map-(Copy)?node-id=2%3A2&scaling=contain&page-id=0%3A1" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/proto/Pt2oXGn0OrvXv2TsdJqECI/Persona-Experience-Map-?node-id=2%3A2&scaling=contain&page-id=0%3A1" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/MacbookProFlyingMockup.png" width="450px">
 </a>
 
@@ -67,9 +67,9 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <hr>
 
 ### Staples Heuristic Implementation
-- [Access the Figma file here](https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-(Copy)?node-id=144%3A837&scaling=contain&page-id=144%3A84)
+- [Access the Figma file here](https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-?node-id=144%3A837&scaling=contain&page-id=144%3A84)
 <br>
-<a href="https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-(Copy)?node-id=144%3A837&scaling=contain&page-id=144%3A84" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-?node-id=144%3A837&scaling=contain&page-id=144%3A84" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/FlyingMackbookPro15inchMockup.png" width="450px">
 </a>
 
