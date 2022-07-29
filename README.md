@@ -57,6 +57,15 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 
 <hr>
 
+### Whoop Hackathon
+- [Access the Figma file here](https://www.figma.com/proto/20nMPGbf42jyF3mCL37WYm/Whoop-Hackathon!?node-id=76%3A2617&scaling=scale-down&page-id=76%3A2616&starting-point-node-id=76%3A2617)
+<br>
+<a href="https://www.figma.com/proto/20nMPGbf42jyF3mCL37WYm/Whoop-Hackathon!?node-id=76%3A2617&scaling=scale-down&page-id=76%3A2616&starting-point-node-id=76%3A2617" target="_blank" rel="noreferrer">
+<img src="https://kleberux.com/projects/FlyingMackbookPro15inchMockup.png" width="450px">
+</a>
+
+<hr>
+
 ### Staples Heuristic Implementation
 - [Access the Figma file here](https://www.figma.com/proto/SfgYKpdKq2xyKoBEa3tyXV/Staples-Heuristics-(Copy)?node-id=144%3A837&scaling=contain&page-id=144%3A84)
 <br>
