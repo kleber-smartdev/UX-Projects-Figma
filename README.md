@@ -25,7 +25,7 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 - [Access the Figma file here](https://www.figma.com/file/cAhzslymwcNr3SXITWT2Hk/Responsive-Website)
 <br>
 <a href="https://www.figma.com/file/cAhzslymwcNr3SXITWT2Hk/Responsive-Website" target="_blank" rel="noreferrer">
-<img src="https://kleberux.com/projects/ResponsiveWebsite.png" width="450px">
+<img src="https://kleberux.com/projects/ResponsiveWebsite2.png" width="450px">
 </a>
 
 <hr>
