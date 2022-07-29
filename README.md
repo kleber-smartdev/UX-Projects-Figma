@@ -76,9 +76,9 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <hr>
 
 ### Wireframe Patient First
-- [Access the Figma file here](https://www.figma.com/proto/37Yy0FDy5aR4UpclzKBXC3/Patients-First--V2.0---Wireframe-(Copy)?node-id=11%3A1603&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A1603)
+- [Access the Figma file here](https://www.figma.com/proto/37Yy0FDy5aR4UpclzKBXC3/Patients-First--V2.0---Wireframe?node-id=11%3A1603&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A1603)
 <br>
-<a href="https://www.figma.com/proto/37Yy0FDy5aR4UpclzKBXC3/Patients-First--V2.0---Wireframe-(Copy)?node-id=11%3A1603&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A1603" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/proto/37Yy0FDy5aR4UpclzKBXC3/Patients-First--V2.0---Wireframe?node-id=11%3A1603&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A1603" target="_blank" rel="noreferrer">
 <img src="https://kleberux.com/projects/iPhone12ProMockup.png" width="250px">
 </a>
 
