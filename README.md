@@ -38,7 +38,7 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 
 <hr>
 
-### App Handoof
+### App Handoff
 - [Access the Figma file here](https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-?node-id=0%3A1)
 <br>
 <a href="https://www.figma.com/file/uHzzwEdUO153emTnRv3sLf/Prototyping-Cap3-Handoff-?node-id=0%3A1" target="_blank" rel="noreferrer">
