@@ -99,6 +99,8 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 <img src="https://kleberux.com/projects/theme-project.jpg">
 </a>
 
+<hr>
+
 https://kleberux.com/
 <br>
 😉🚀
