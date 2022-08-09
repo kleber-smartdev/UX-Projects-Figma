@@ -92,6 +92,9 @@ Some of my projects on Figma <strong>(Persona, Task Flow, Experience Map, Wirefr
 
 <hr>
 
+### Deployed on GitHub Pages
+- [Live Demo](https://kleber-smartdev.github.io/Theme-By-System-Hours-Click-v2.0/)
+
 ### FigJam (Figma) Visual IF before coding
 - [Access the Figma file here](https://www.figma.com/file/fdKkxhtNoJmT2oE2KarFG5/Theme-Project?node-id=0%3A1)
 <br>
